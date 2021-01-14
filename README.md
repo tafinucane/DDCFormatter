@@ -1,2 +1,2 @@
 # DDCFormatter
-SwiftUI tool too generate Double Disc Court mini tournaments
+SwiftUI tool to generate Double Disc Court mini tournaments
